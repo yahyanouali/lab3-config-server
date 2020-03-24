@@ -11,7 +11,7 @@
 	<groupId>com.microservices</groupId>
 	<artifactId>lab3-config-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>config-server</name>
+	<name>lab3-config-server</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
